@@ -1,0 +1,29 @@
+.box {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 40px;
+  cursor: pointer;
+}
+
+.box a {
+  color: white;
+  font-size: 20px;
+  left: 0;
+}
+
+.box1 {
+  font-size: 15px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.box-text {
+  margin-top: 100px;
+}
+
+a {
+  text-decoration: none !important;
+}
+/*# sourceMappingURL=main.css.map */
